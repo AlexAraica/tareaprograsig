@@ -19,6 +19,8 @@ Finalmente, el grafico de las aerolineas se mantiene constante y decae fuertemen
 
 [Ver grafico de las aerolineas en el mundo](https://alexaraica.github.io/prueba/partidas.html)
 
+[Codigo de los graficos](https://colab.research.google.com/drive/1GucgpkjEz8XVHyudyS63XZ4hw9Sa6NXn?usp=sharing)
+
 
 
 
