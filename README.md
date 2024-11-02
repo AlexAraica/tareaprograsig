@@ -5,4 +5,4 @@ Este trabajo explora el impacto del transporte aéreo en el crecimiento del PIB 
 ### Producto interno bruto
 
 
-[Ver mi gráfico](https://alexaraica.github.io/prueba/pib.html)
+![Ver mi gráfico](https://alexaraica.github.io/prueba/pib.html)
